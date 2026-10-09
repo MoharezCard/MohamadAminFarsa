@@ -1,0 +1,260 @@
+{
+  "lang": "fa",
+  "theme": "dark",
+  "a": "#3b82f6",
+  "b": "#8b5cf6",
+  "font": "Vazirmatn,Tahoma,sans-serif",
+  "nameEn": "Mohammad Amin Farsa",
+  "nameFa": "محمد امین فرسا",
+  "titleEn": "Web Developer & UI/UX Designer",
+  "titleFa": "طراح وب و UI/UX",
+  "bioFa": "کمک به کسب‌وکارها برای حضور قوی‌تر در دنیای آنلاین. طراحی سایت، توسعه وب و تجربه کاربری.",
+  "bioEn": "Helping businesses build a stronger online presence: web design, development and UX.",
+  "phone": "+989123456789",
+  "email": "amin.farsa@example.com",
+  "city": "تهران، ایران",
+  "web": "",
+  "map": "",
+  "hours": "شنبه تا پنجشنبه • ۸ صبح تا ۸ شب",
+  "avatar": "",
+  "cover": "",
+  "skills": "HTML,CSS,JavaScript,React,Next.js,Figma,Git",
+  "sec": {
+    "svc": 1,
+    "port": 1,
+    "about": 1,
+    "more": 1
+  },
+  "soc": [
+    {
+      "p": "instagram",
+      "u": "amin.farsa",
+      "on": 1
+    },
+    {
+      "p": "telegram",
+      "u": "aminfarsa",
+      "on": 1
+    },
+    {
+      "p": "whatsapp",
+      "u": "989123456789",
+      "on": 1
+    },
+    {
+      "p": "youtube",
+      "u": "aminfarsa",
+      "on": 1
+    },
+    {
+      "p": "linkedin",
+      "u": "aminfarsa",
+      "on": 1
+    },
+    {
+      "p": "github",
+      "u": "aminfarsa",
+      "on": 1
+    },
+    {
+      "p": "x",
+      "u": "aminfarsa",
+      "on": 1
+    },
+    {
+      "p": "rubika",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "aparat",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "eitaa",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "bale",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "soroush",
+      "u": "",
+      "on": 0
+    },
+    {
+      "p": "gap",
+      "u": "",
+      "on": 0
+    }
+  ],
+  "svc": [
+    {
+      "t": "طراحی سایت",
+      "te": "Website design",
+      "d": "سایت‌های مدرن و حرفه‌ای با بهترین کیفیت",
+      "de": "Modern, professional websites",
+      "p": "از ۶٬۰۰۰٬۰۰۰ تومان",
+      "pe": "From 6,000,000 Toman",
+      "img": ""
+    },
+    {
+      "t": "UI/UX Design",
+      "te": "UI/UX Design",
+      "d": "طراحی رابط کاربری و تجربه کاربری",
+      "de": "User interface and experience design",
+      "p": "از ۳٬۰۰۰٬۰۰۰ تومان",
+      "pe": "From 3,000,000 Toman",
+      "img": ""
+    },
+    {
+      "t": "اپلیکیشن موبایل",
+      "te": "Mobile app",
+      "d": "توسعه اپلیکیشن‌های اندروید و iOS",
+      "de": "Android and iOS app development",
+      "p": "از ۱۰٬۰۰۰٬۰۰۰ تومان",
+      "pe": "From 10,000,000 Toman",
+      "img": ""
+    }
+  ],
+  "port": [
+    {
+      "t": "سایت شرکتی",
+      "te": "Corporate website",
+      "c": "وب‌سایت",
+      "ce": "Website",
+      "img": ""
+    },
+    {
+      "t": "اپلیکیشن موبایل",
+      "te": "Mobile app",
+      "c": "اپلیکیشن",
+      "ce": "App",
+      "img": ""
+    },
+    {
+      "t": "داشبورد",
+      "te": "Dashboard",
+      "c": "طراحی UI",
+      "ce": "UI design",
+      "img": ""
+    },
+    {
+      "t": "برندینگ",
+      "te": "Branding",
+      "c": "طراحی UI",
+      "ce": "UI design",
+      "img": ""
+    }
+  ],
+  "promoT": "طراحی سایت حرفه‌ای",
+  "promoD": "سریع، امن، مدرن",
+  "exp": "۳+ سال",
+  "langs": "فارسی، انگلیسی",
+  "aboutImg": "",
+  "days": [
+    "۸:۰۰ - ۲۰:۰۰",
+    "۸:۰۰ - ۲۰:۰۰",
+    "۸:۰۰ - ۲۰:۰۰",
+    "۸:۰۰ - ۲۰:۰۰",
+    "۸:۰۰ - ۲۰:۰۰",
+    "۸:۰۰ - ۲۰:۰۰",
+    "۹:۰۰ - ۱۹:۰۰"
+  ],
+  "prod": [
+    {
+      "t": "لپ‌تاپ گیمینگ",
+      "te": "Gaming laptop",
+      "p": "۴۵٬۰۰۰٬۰۰۰ تومان",
+      "pe": "45,000,000 Toman",
+      "o": "10",
+      "img": ""
+    },
+    {
+      "t": "موبایل هوشمند",
+      "te": "Smartphone",
+      "p": "۲۵٬۰۰۰٬۰۰۰ تومان",
+      "pe": "25,000,000 Toman",
+      "o": "",
+      "img": ""
+    }
+  ],
+  "rev": [
+    {
+      "n": "علی رضایی",
+      "ne": "Ali Rezaei",
+      "r": "5",
+      "d": "۳ هفته پیش",
+      "de": "3 weeks ago",
+      "m": "بسیار حرفه‌ای و خوش برخورد بودن.",
+      "me": "Very professional and friendly."
+    },
+    {
+      "n": "مینا کاظمی",
+      "ne": "Mina Kazemi",
+      "r": "5",
+      "d": "۱ ماه پیش",
+      "de": "1 month ago",
+      "m": "کیفیت طراحی و پشتیبانی عالی.",
+      "me": "Excellent design quality and support."
+    }
+  ],
+  "book": [
+    {
+      "t": "مشاوره آنلاین",
+      "te": "Online consultation",
+      "d": "رزرو جلسه مشاوره",
+      "de": "Book a consultation session"
+    },
+    {
+      "t": "مشاوره حضوری",
+      "te": "In-person consultation",
+      "d": "رزرو نوبت حضوری",
+      "de": "Book an in-person appointment"
+    }
+  ],
+  "files": [
+    {
+      "t": "کاتالوگ محصولات",
+      "te": "Product catalog",
+      "m": "PDF • 7.4 MB",
+      "u": ""
+    },
+    {
+      "t": "لیست قیمت",
+      "te": "Price list",
+      "m": "PDF • 1.8 MB",
+      "u": ""
+    }
+  ],
+  "_v": 0,
+  "pw": "",
+  "cc": {
+    "dark": {},
+    "light": {}
+  },
+  "langBtn": 1,
+  "langSw": 1,
+  "thSw": 1,
+  "bank": [],
+  "vis": {},
+  "fonts": [],
+  "fnt": {
+    "all": "vazir",
+    "title": "def",
+    "btn": "def",
+    "nav": "def",
+    "pg": {}
+  },
+  "sl": {},
+  "cityEn": "Tehran, Iran",
+  "expEn": "3+ years",
+  "langsEn": "Persian, English",
+  "promoTEn": "Professional web design",
+  "promoDEn": "Fast, secure, modern",
+  "skillsEn": ""
+}
